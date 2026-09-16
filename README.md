@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：概率解读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 028 篇 - 百家乐Ai预测分析工具：对数损失揭示过度自信的代价](https://github.com/TGmszrcsz/baccarat-ai-028) ｜ [下一篇：第 030 篇 - 百家乐Ai预测分析工具：把不确定性写进分析面板的阅读方法](https://github.com/TGmszrcsz/baccarat-ai-030)
+
+<!-- article-chain:end -->
+
 模型给出复杂图表，却没有说明比什么做得更好。本篇围绕“比较分析输出时需要一个简单基准”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
